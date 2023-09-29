@@ -1,0 +1,9 @@
+leftnav:
+- identifier: d7af6f0e-52b9-b87c-84b6-70fc3afc2552
+  name: Videos
+  pageRef: /video_galleries/videos
+  weight: 10
+- identifier: d88ee1e7-0af9-160e-5a0d-6210e3f7aae6
+  name: Related Resources
+  pageRef: /pages/relatedresources
+  weight: 20
